@@ -1,34 +1,34 @@
 //CÓDIGO COMPLETO
 
 let nomeHeroi = "Camargo"
-let nivelExp = 2500
+let nivelXp = 2500
 
     console.log("Olá " + nomeHeroi + "!")
-    console.log("Seu nível de experiência é: " + nivelExp)
+    console.log("Seu nível de experiência é: " + nivelXp)
 
 
     
-if(nivelExp <=1000){
+if(nivelXp <=1000){
 	console.log("O Heroi de nome " + nomeHeroi + " Está no nível Ferro.")
 }
-else if(nivelExp <=2000){
+else if(nivelXp <=2000){
 	console.log("O Heroi de nome " + nomeHeroi + " Está no nível Bronze.")
 }
-else if(nivelExp <=5000){
+else if(nivelXp <=5000){
 	console.log("O Heroi de nome " + nomeHeroi + " Está no nível Prata.")
 }
-else if(nivelExp <=7000){
+else if(nivelXp <=7000){
 	console.log("O Heroi de nome " + nomeHeroi + " Está no nível Ouro.")
 }
-else if(nivelExp <=8000){
+else if(nivelXp <=8000){
 	console.log("O Heroi de nome " + nomeHeroi + " Está no nível Platina.")
 }
-else if(nivelExp <=9000){
+else if(nivelXp <=9000){
 	console.log("O Heroi de nome " + nomeHeroi + " Está no nível Ascendente.")
 }
-else if(nivelExp <=10000){
+else if(nivelXp <=10000){
 	console.log("O Heroi de nome " + nomeHeroi + " Está no nível Imortal.")
 }
-else if(nivelExp >10000){
+else if(nivelXp >10000){
 	console.log("O Heroi de nome " + nomeHeroi + " Está no nível Radiante.")
 }
