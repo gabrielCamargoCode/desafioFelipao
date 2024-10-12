@@ -32,7 +32,3 @@ else if(nivelExp <=10000){
 else if(nivelExp >10000){
 	console.log("O Heroi de nome " + nomeHeroi + " Está no nível Radiante.")
 }
-
-
-//teste
-
