@@ -1,7 +1,7 @@
 //CÓDIGO COMPLETO
 
 let nomeHeroi = "Camargo"
-let nivelExp = 2000
+let nivelExp = 2500
 
     console.log("Olá " + nomeHeroi + "!")
     console.log("Seu nível de experiência é: " + nivelExp)
