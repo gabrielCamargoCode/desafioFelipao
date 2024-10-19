@@ -1,13 +1,10 @@
 //CÓDIGO COMPLETO
-
-let nomeHeroi = "Camargo"
+let nomeHeroi ="Camargo"
 let nivelXp = 2500
 
-    console.log("Olá " + nomeHeroi + "!")
-    console.log("Seu nível de experiência é: " + nivelXp)
-
-
-    
+console.log("Olá " + nomeHeroi + "!")
+console.log("Seu nível de experiência é: " + nivelXp)
+   
 if(nivelXp <=1000){
 	console.log("O Heroi de nome " + nomeHeroi + " Está no nível Ferro.")
 }
